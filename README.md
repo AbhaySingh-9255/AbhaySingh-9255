@@ -424,3 +424,14 @@ AI / ML
 </div>
 
 ---
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/AbhaySingh-9255/AbhaySingh-9255/output/github-contribution-grid-snake.svg" width="100%"/>
+
+</div>
+
+---
